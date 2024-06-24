@@ -1,3 +1,3 @@
 # ConectarLab
 ## Documentacion
-Aqui estare dejando mis codigos con la documentacion de los codigos que lo necesiten
+Aqui estare dejando los codigos con la documentacion correspondiente los que lo necesiten
